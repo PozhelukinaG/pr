@@ -1,2 +1,4 @@
 пып
 sgs
+doctype html
+вдвдв
